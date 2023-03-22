@@ -14,8 +14,8 @@ To accomplish this, you will implement:
  * Best trajectory selection though a cost function evaluation. This cost function will mainly perform a collision check and a proximity check to bring cost higher as we get closer or collide with objects but maintaining a bias to stay closer to the lane center line.
 
 ## Project Results
-![Alt text](Pics/ss2.png "overtake")
-![Alt text](Pics/ss1.png "free drive")
+![Alt text](Pics/ss2.png "Overtake")
+![Alt text](Pics/ss1.png "Free drive")
 
 ## Reference code
 [behavior_planner_FSM.cpp](project/starter_files/behavior_planner_FSM.cpp)
